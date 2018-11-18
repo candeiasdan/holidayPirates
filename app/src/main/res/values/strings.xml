@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HolidayPirates</string>
+    <string name="error_loading_data">Error while loading data.</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="username_dots">Username:</string>
+    <string name="website_dots">Website:</string>
+    <string name="comments">Comments</string>
+    <string name="photos">Photos</string>
+</resources>
